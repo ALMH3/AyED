@@ -1,4 +1,4 @@
 - Alumno: Ariel Mamani Herrera
 - Legajo: 2027288
 - IDE: Visual Estudio Code - MSYS2
-- 
+- Algoritmo y Estructura de Datos K1102
